@@ -2,5 +2,6 @@
 
 Diablo III .INI settings
 
-Name Folders as such... (Class - Spec)
-Example: Barb-WW
+Please place ini settings inside the appropriate class folder.
+Name the new folder inside of the class folder with the spec name those settings are for.
+          
