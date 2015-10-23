@@ -1,9 +1,6 @@
 # DiabloIII
 
-.ini file settings for Diablo III Ros-Bot
+Diablo III .INI settings
 
 Name Folders as such... (Class - Spec)
-
 Example: Barb-WW
-
-Diablo III .INI settings
